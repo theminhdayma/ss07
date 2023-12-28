@@ -1,0 +1,21 @@
+.body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.th1 {
+    font-size: 16px;
+    color: #BEBEBE;
+}
+
+.th2 {
+    margin-left: 15px;
+    font-size: 16px;
+    color: #BEBEBE;
+}
+
+.td2 {
+    font-size: 16px;
+    color: #BEBEBE;
+    position: relative;
+    left: 44px;
+}

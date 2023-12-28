@@ -1,0 +1,41 @@
+.notification {
+    background-color: #BEBEBE;
+    color: rgb(235, 221, 221);
+    text-decoration: none;
+    padding: 35px 35px;
+    position: relative;
+    display: inline-block;
+    border-radius: 8%;
+  }
+  
+  .notification:hover {
+    background: red;
+  }
+  
+  .notification .badge {
+    position: absolute;
+    top: -10px;
+    right: -10px;
+    padding: 5px 10px;
+    border-radius: 50%;
+    background: red;
+    color: rgb(241, 236, 236);
+  }
+
+  .notification1 {
+    background-color: #BEBEBE;
+    color: rgb(235, 221, 221);
+    text-decoration: none;
+    padding: 35px 35px;
+    position: relative;
+    display: inline-block;
+    border-radius: 8%;
+  }
+  
+.notification1 .badge1 {
+    position: absolute;
+    top: -27px;
+    right: -24px;
+    padding: 5px 10px;
+    font-size: 30px;
+}

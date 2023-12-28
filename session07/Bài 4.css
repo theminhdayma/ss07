@@ -1,0 +1,29 @@
+.div {
+    background-color: #BEBEBE;
+    width: 400px;
+    height: 300px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.div1 {
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    background-color: white;
+    width: 280px;
+    height: 280px;
+    border-radius: 50%;
+    position: relative;
+    top: 5px;
+    left: 50px;
+}
+
+.img {
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    margin-left: 20px;
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+    position: relative;
+    top: 12px;
+    right: 4px;
+}
